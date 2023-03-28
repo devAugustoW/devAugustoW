@@ -1,5 +1,5 @@
 ### Hello, I'm Augusto Dantas 👋
-a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites. Currently, I'm focusing on languages like JavaScript and TypeScript and frameworks like React and Vue. Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!<br><br>
+a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites. Currently, I'm focusing on languages like JavaScript, TypeScript and frameworks like React and Vue. Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!<br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-dantas/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAugustoW)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto.dom/)
