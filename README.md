@@ -6,6 +6,8 @@ a student programmer who's just starting to share my projects on GitHub. I'm int
 
 ![devAugustoW GitHub stats](https://github-readme-stats.vercel.app/api?username=devAugustoW&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAugustoW&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies I use in my day
 <div style="display: inline-block"><br>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
