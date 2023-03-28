@@ -14,7 +14,7 @@ a student programmer who's just starting to share my projects on GitHub. I'm int
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> 
 </div><br>
 
-Appreciator of technology and everything that improves human life
+Passionate about technology and everything that improves human life.
 
 ## Technologies I want to specialize in
 <div style="display: inline-block"><br>
