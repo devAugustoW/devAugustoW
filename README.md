@@ -1,11 +1,13 @@
 <div align="center"> 
 <h1> Hello, I'm <a href="https://www.linkedin.com/in/augusto-dantas/" target="_blank">Augusto Dantas</a> 👋 </h1>
-</div
+</div 
+    
+<p align="center">
+<p align="center">
+    a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites. Currently, I'm focusing on languages like JavaScript, TypeScript and frameworks like React and Vue. Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!
+</p><br>
 
-<p align="center">a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites.<br><br> 
-Currently, I'm focusing on languages like JavaScript, TypeScript and frameworks like React and Vue. <br>
-Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!</p>
-</div><br><br>
+
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devAugustoW&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
