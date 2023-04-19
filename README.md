@@ -30,5 +30,5 @@
   <a href="https://www.instagram.com/augusto.dom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><br>
 
-<p align="center">"Technology is the most powerful tool that humanity has ever created, and it's up to us to use it to build a better future for everyone."</p>
+<p align="center">"Technology is the most powerful tool ever created, and it's up to us to use it to build a better future."</p>
 
