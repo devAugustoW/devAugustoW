@@ -4,7 +4,7 @@
     
 <p align="center">
 <p align="center">
-    a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites. Currently, I'm focusing on languages like JavaScript, TypeScript and frameworks like React and Vue. Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!
+    a student programmer who's just starting to share my projects on GitHub. I'm interested in learning everything about software development, from algorithms to mobile apps and full websites. Currently, I'm focusing on languages like JavaScript, NodeJS and frameworks like React and Vue. Feel free to check out my repositories and get in touch with me if you'd like to chat about anything programming-related!
 </p><br>
 
 
