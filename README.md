@@ -11,7 +11,7 @@
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devAugustoW&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAugustoW&langs_count=8&theme=transparent&hide_border=false&&layout=compact&cache_seconds=1800"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAugustoW&theme=transparent&hide_border=false&&layout=compact&cache_seconds=1800"/>
 </div>
 
 <div align="center" valign="top"><br>
