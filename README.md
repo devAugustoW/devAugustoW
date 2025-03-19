@@ -4,7 +4,7 @@
     
 <p align="center">
 <p align="center">
-    a passionate front-end developer with a growing expertise in full-stack development. Over the past years, I have been working on projects using HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, MongoDB, and Firebase. My focus is on creating dynamic, responsive, and user-friendly applications while continually expanding my knowledge in modern web technologies. Feel free to explore my repositories and connect with me to discuss ideas, collaborate, or simply chat about programming!
+    A passionate front-end developer with a growing expertise in full-stack development. Over the past years, I have been working on projects using HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, MongoDB, and Firebase. My focus is on creating dynamic, responsive, and user-friendly applications while continually expanding my knowledge in modern web technologies. One of my favorite projects involved developing a mobile application called **Travelling App**, which allows users to register and organize photos into albums, capture geolocation data, and display a map with markers of visited locations. The interface was designed to be intuitive and optimized, providing a smooth and enjoyable user experience. Feel free to explore my repositories and connect with me to discuss ideas, collaborate, or simply chat about programming!
 </p><br>
 
 
